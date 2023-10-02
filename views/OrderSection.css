@@ -1,0 +1,26 @@
+/* OrderSection.css */
+
+.order-section {
+  margin: 20px;
+}
+
+.order-form {
+  margin-top: 10px;
+}
+
+.order-list {
+  margin-top: 20px;
+}
+
+.order-item {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-top: 10px;
+}
+
+.create-button {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  z-index: 1;
+}
